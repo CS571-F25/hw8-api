@@ -22,7 +22,7 @@ const URLS = [
     {
         url: "https://news.wisc.edu/uw-fostering-closer-research-ties-with-federal-defense-cybersecurity-agencies/",
         img: "defense.jpg",
-        tags: ["science"]
+        tags: ["tech"]
     },
     {
         url: "https://news.wisc.edu/uw-researchers-uncover-possible-new-treatment-to-target-a-devastating-childhood-brain-cancer/",
@@ -48,7 +48,12 @@ const URLS = [
         url: "https://news.wisc.edu/buckys-tuition-promise-boosts-retention-rate-for-lower-income-students-long-term-study-finds/",
         img: "tuition.jpg",
         tags: ["outreach"]
-    }
+    },
+    {
+        url: "https://news.wisc.edu/robotic-space-rovers-keep-getting-stuck-uw-engineers-have-figured-out-why/",
+        img: "rovers.jpg",
+        tags: ["science", "tech"]
+    },
 ]
 
 const articles = [];
